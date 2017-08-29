@@ -1,0 +1,18 @@
+C:\Users\luis.souza\Documents\Visual Studio 2010\Projects\VerificarArquivos\VerificarArquivos\bin\Debug\VerificarArquivos.exe
+C:\Users\luis.souza\Documents\Visual Studio 2010\Projects\VerificarArquivos\VerificarArquivos\bin\Debug\VerificarArquivos.pdb
+C:\Users\luis.souza\Documents\Visual Studio 2010\Projects\VerificarArquivos\VerificarArquivos\obj\x86\Debug\VerificarArquivos.Form1.resources
+C:\Users\luis.souza\Documents\Visual Studio 2010\Projects\VerificarArquivos\VerificarArquivos\obj\x86\Debug\VerificarArquivos.Properties.Resources.resources
+C:\Users\luis.souza\Documents\Visual Studio 2010\Projects\VerificarArquivos\VerificarArquivos\obj\x86\Debug\VerificarArquivos.csproj.GenerateResource.Cache
+C:\Users\luis.souza\Documents\Visual Studio 2010\Projects\VerificarArquivos\VerificarArquivos\obj\x86\Debug\VerificarArquivos.exe
+C:\Users\luis.souza\Documents\Visual Studio 2010\Projects\VerificarArquivos\VerificarArquivos\obj\x86\Debug\VerificarArquivos.pdb
+C:\Users\luis.souza\Documents\Visual Studio 2010\Projects\VerificarArquivos\VerificarArquivos\obj\x86\Debug\VerificarArquivos.csprojResolveAssemblyReference.cache
+C:\Users\luis.souza\ARQUIVOS\OUTROS\C#\COPIA_DE_ARQUIVOS\VerificarArquivos\obj\x86\Debug\VerificarArquivos.exe
+C:\Users\luis.souza\ARQUIVOS\OUTROS\C#\COPIA_DE_ARQUIVOS\VerificarArquivos\obj\x86\Debug\VerificarArquivos.pdb
+D:\ARQUIVOS\OUTROS\C#\COPIA_DE_ARQUIVOS\VerificarArquivos\obj\x86\Debug\VerificarArquivos.exe
+D:\ARQUIVOS\OUTROS\C#\COPIA_DE_ARQUIVOS\VerificarArquivos\obj\x86\Debug\VerificarArquivos.pdb
+D:\ARQUIVOS\OUTROS\C#\COPIA_DE_ARQUIVOS\VerificarArquivos\bin\Debug\VerificarArquivos.exe
+D:\ARQUIVOS\OUTROS\C#\COPIA_DE_ARQUIVOS\VerificarArquivos\bin\Debug\VerificarArquivos.pdb
+D:\ARQUIVOS\OUTROS\C#\COPIA_DE_ARQUIVOS\VerificarArquivos\obj\x86\Debug\VerificarArquivos.csprojResolveAssemblyReference.cache
+D:\ARQUIVOS\OUTROS\C#\COPIA_DE_ARQUIVOS\VerificarArquivos\obj\x86\Debug\VerificarArquivos.Form1.resources
+D:\ARQUIVOS\OUTROS\C#\COPIA_DE_ARQUIVOS\VerificarArquivos\obj\x86\Debug\VerificarArquivos.Properties.Resources.resources
+D:\ARQUIVOS\OUTROS\C#\COPIA_DE_ARQUIVOS\VerificarArquivos\obj\x86\Debug\VerificarArquivos.csproj.GenerateResource.Cache
